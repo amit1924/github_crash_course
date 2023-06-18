@@ -1,0 +1,21 @@
+body h1{
+    color: blue;
+    margin-left: 230px;
+
+    }
+
+    body {
+        background-color: black;
+        color: white;
+    }
+
+    img{
+        height: 80px;
+        width: 80px;
+        margin-left: 340px;
+    }
+
+    .img p{
+        /* margin-left: 150px; */
+        text-align: center;
+    }
